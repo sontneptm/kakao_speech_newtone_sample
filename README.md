@@ -10,10 +10,12 @@ https://developers.kakao.com/docs/android/speech#음성-뉴톤-
 ## 설치 방법
 
 안드로이드 개발환경이 필요하고,
+
 minimum OS 버전 : android 4.0 (API Level 14)
 target OS 버전 : android 6.0 (API Level 23)
 개발툴 : android studio (IntelliJ)
-공식 요구사항은 이렇습니다 자세한 설치법은
+
+공식 요구사항입니다. 자세한 설치법은
 https://developers.kakao.com/docs/android/speech#시작하기-전에
 링크에서 확인 가능합니다.
 
